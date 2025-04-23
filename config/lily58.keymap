@@ -27,8 +27,6 @@
 &kp LCTRL       &kp Z   &kp X   &kp C         &kp V         &kp B         &kp DELETE    &kp TAB    &kp N          &kp M              &kp COMMA  &kp DOT  &kp FSLH  &kp TILDE
                                 &lt 1 KP_DOT  &kp LEFT_WIN  &kp LEFT_ALT  &kp SPACE     &kp ENTER  &kp BACKSPACE  &lt 2 RIGHT_SHIFT  &kp MINUS
             >;
-
-            sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN>;
         };
 
         lower_layer {
